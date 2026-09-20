@@ -36,12 +36,9 @@ Mục lục chi tiết của dự án bao gồm các phần chính sau:
 ### 4. Một số ứng dụng của lũy thừa
 * **Kinh tế:** Lãi suất ngân hàng, bài toán vay vốn, mua trả góp.
 * **Đời sống - Xã hội:** Bài toán mô hình hóa sự tăng trưởng dân số.
-* **Khoa học - Kỹ thuật:** Chu kỳ bán rã/ph phóng xạ, đo lường dư chấn động đất, cường độ âm thanh.
+* **Khoa học - Kỹ thuật:** Chu kỳ bán rã phóng xạ, đo lường dư chấn động đất, cường độ âm thanh.
 
-### 5. Khảo sát và đánh giá
-* **5.1 Khảo sát**
-* **5.2 Kết luận**
-* **5.3 Tài liệu tham khảo**
+### 5. Tài liệu tham khảo
 
 ---
 

@@ -16,7 +16,7 @@ Tài liệu này được biên soạn nhằm:
 
 Mục lục chi tiết của dự án bao gồm các phần chính sau:
 
-### 1. Lũy Thừa
+### 1. Lũy thừa
 * **1.1 Khái niệm lũy thừa**
   * Lũy thừa với số mũ nguyên.
   * Phương trình $x^{\alpha} = b$.
@@ -25,20 +25,20 @@ Mục lục chi tiết của dự án bao gồm các phần chính sau:
   * Lũy thừa với số mũ vô tỉ.
 * **1.2 Tính chất của lũy thừa với số mũ thực**
 
-### 2. Hàm Số Lũy Thừa
+### 2. Hàm số lũy thừa
 * **2.1 Khái niệm**
 * **2.2 Đạo hàm của hàm số lũy thừa**
 * **2.3 Khảo sát hàm số lũy thừa $y = x^{\alpha}$**
 
-### 3. Một Số Bài Toán Liên Quan Đến Lũy Thừa
+### 3. Một số bài toán liên quan đến lũy thừa
 * Các ví dụ mẫu và phương pháp giải bài toán biến đổi, rút gọn biểu thức chứa lũy thừa/căn bậc $n$.
 
-### 4. Một Số Ứng Dụng Của Lũy Thừa
+### 4. Một số ứng dụng của lũy thừa
 * **Kinh tế:** Lãi suất ngân hàng, bài toán vay vốn, mua trả góp.
 * **Đời sống - Xã hội:** Bài toán mô hình hóa sự tăng trưởng dân số.
 * **Khoa học - Kỹ thuật:** Chu kỳ bán rã/ph phóng xạ, đo lường dư chấn động đất, cường độ âm thanh.
 
-### 5. Khảo Sát & Đánh Giá
+### 5. Khảo sát và đánh giá
 * **5.1 Khảo sát**
 * **5.2 Kết luận**
 * **5.3 Tài liệu tham khảo**

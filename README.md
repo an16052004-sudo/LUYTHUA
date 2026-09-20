@@ -30,10 +30,7 @@ Mục lục chi tiết của dự án bao gồm các phần chính sau:
 * **2.2 Đạo hàm của hàm số lũy thừa**
 * **2.3 Khảo sát hàm số lũy thừa $y = x^{\alpha}$**
 
-### 3. Một số bài toán liên quan đến lũy thừa
-* Các ví dụ mẫu và phương pháp giải bài toán biến đổi, rút gọn biểu thức chứa lũy thừa/căn bậc $n$.
-
-### 4. Một số ứng dụng của lũy thừa
+### 3. Một số ứng dụng thực tế của hàm số lũy thừa
 * **Kinh tế:** Lãi suất ngân hàng, bài toán vay vốn, mua trả góp.
 * **Đời sống - Xã hội:** Bài toán mô hình hóa sự tăng trưởng dân số.
 * **Khoa học - Kỹ thuật:** Chu kỳ bán rã phóng xạ, đo lường dư chấn động đất, cường độ âm thanh.
